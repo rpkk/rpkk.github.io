@@ -1,0 +1,210 @@
+/* @import url(http://www.kosowicz.pl); */
+
+* {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: justify;
+	font-size: 13px;
+}
+
+body {
+	background-color:	e0e7d1;
+	margin: 0px 50px;
+}
+
+h2 {
+	margin-left: 30px;
+	font-size: 18px;
+}
+
+h3 {
+	margin-left: 30px;
+	font-size: 15px;
+}
+
+p {
+	text-indent: 30px;
+	padding: 1px 0px 1px 0px;
+	margin: 0px;
+}
+
+blockquote {
+	margin: 0px 30px 0px 30px;
+	padding: 5px 20px 5px 20px;
+	border-left: solid 4px silver;
+	border-right: solid 4px silver;
+}
+
+ul {
+	margin-bottom: 10px;
+	list-style: square;
+}
+
+ul ul {
+	margin-bottom: 9px;
+	list-style: disc ;
+}
+
+ul ul ul {
+	margin-bottom: 8px;
+	list-style: circle ;
+}
+
+ul ul ul ul {
+	margin-bottom: 7px;
+	list-style: disc;
+}
+
+ul ul ul ul ul {
+	margin-bottom: 7px;
+	list-style: circle;
+}
+
+q {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+a:hover {
+	color: grey;
+}
+
+a:visited {
+}
+
+a:link {
+	color: green;
+}
+
+#header {
+	margin: 10px 30px 0px 30px;
+	padding: 15px 30px 10px 30px;
+	border-top: double 5px silver;
+	border-bottom: double 5px silver;
+}
+
+h1 {
+	text-align: center;
+	font-size: 23px;
+	padding: 0px 0px 0px 0px;
+}
+
+#rpkk {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#nav_strona ul{
+	padding: 7px 0px 10px 0px;
+	margin: 0px 20% 0px 30px;
+	text-align: center;
+	border-bottom: solid 2px silver;
+}
+
+#nav_strona li{
+	display: inline;
+	margin: 0px 5px 0px 5px;
+  font-size: 19px;
+}
+
+#content {
+	width: 80%;
+	padding: 5px;
+}
+
+a.w_gore {
+	vertical-align: sub ;
+	font-size: 8px;
+	font-weight: normal;
+}
+
+a:visited.w_gore  {
+	vertical-align: sub ;
+	font-size: 8px;
+	font-weight: normal;
+	color: green;
+}
+
+#zainteresowania {
+}
+
+#filozofia {
+}
+
+#kuchnia {
+}
+
+#foto {
+}
+
+#www {
+}
+
+#umiejetnosci {
+}
+
+#menu {
+	position: absolute;
+	top: 150px;
+	left: 77%;
+	width: 18%;
+	margin-right: 50px;
+	background-color:	e0e7d1;
+}
+
+#menu h2{
+	font-size: 15px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#menu ul li {
+	text-align: left;
+}
+
+#menu ul li.rodzinna {
+	text-align: left;
+	margin-top: 3px;
+	padding-top: 3px;
+	border-top: solid 2px silver;
+}
+
+#footer {
+	margin: 5px 30px 0px 30px;
+	padding: 3px 3px 0px 3px;
+	border-top: double 5px silver;
+}
+
+#footer ul {
+	text-align:center;
+	margin: 0px;
+	padding: 0px;
+	padding: 0px 40px 5px 40px;
+}
+
+#footer p {
+	text-align: right;
+	font-size: 10px;
+}
+
+#footer li {
+	display: inline;
+	font-size: 10px;
+}
+
+#footer ul li.rodzinna {
+	text-align: block;
+	margin-top: 3px;
+	padding-top: 3px;
+	border-top: solid 2px silver;
+}
+
+#footer a {
+	font-size: 10px;
+}
